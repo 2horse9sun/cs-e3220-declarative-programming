@@ -1,0 +1,1 @@
+Coursework for CS-E3220 Declarative Programming at Aalto University.
